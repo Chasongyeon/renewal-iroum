@@ -1,0 +1,13 @@
+# images 폴더와 그 안에 모든 애용들 무시!
+!images/
+
+# 파일 무시!
+*.jpg
+*.png
+*.svg
+*.gif
+*.ai
+*.psd
+*.hwp
+*.ppt
+*.pdf
